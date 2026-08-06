@@ -123,3 +123,8 @@ Status: Planned
 ## Phase 5 - Production Hardening
 
 Status: Planned
+
+
+# Solution Architecture
+
+![Architecture Diagram](diagrams/architecture.png)
